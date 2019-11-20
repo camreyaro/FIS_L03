@@ -7,6 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "homepage": ".",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camreyaro/FIS_L03.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
